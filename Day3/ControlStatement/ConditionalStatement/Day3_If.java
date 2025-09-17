@@ -1,4 +1,4 @@
-package Day3.ControlStatement;
+package Day3.ControlStatement.ConditionalStatement;
 
 public class Day3_If {
     public static void main(String[] args) {
@@ -6,7 +6,7 @@ public class Day3_If {
 
 //        int a=22;
 
-        if(a == 20){ // if a is not 20 then the blockscope skip
+        if(a == 20){ // if age is not 20 then the blockscope skip
             System.out.println("Condition Matched");
         }
     }
